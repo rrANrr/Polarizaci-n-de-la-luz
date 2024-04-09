@@ -10,7 +10,7 @@
  Los códigos utilizados para el tratamiento de dichos datos se puede ver [aquí](https://colab.research.google.com/drive/1HqN9olLjR5s8dnvJe1p_hpguQMMyi_-E?usp=sharing)
 
 ### Ángulo de Brewster
-El ángulo de Brewster es aquel ángulo para el cual se tiene que el haz reflejado sobre la superficie utilizada resulta polarizado linealmente, este varía segun la longitud de onda y según el material sobre el cual se hace incidir el haz.A continuanción se muestran los datos tomados en la práctica de laboratorio para una lamina de vidrio utilizando un haz de una longitud de onda de $632.8 nm$ [ver acá](). Los códigos utilizados para el tratamiento de dichos datos se puede ver [aquí]()
+El ángulo de Brewster es aquel ángulo para el cual se tiene que el haz reflejado sobre la superficie utilizada resulta polarizado linealmente, este varía segun la longitud de onda y según el material sobre el cual se hace incidir el haz. los datos tomados en la práctica de laboratorio para una lamina de vidrio utilizando un haz de una longitud de onda de $632.8 nm$ nos arrojaron un valor de . Los códigos utilizados para el tratamiento de dichos datos se puede ver [aquí]()
 ### Actividad óptica del azúcar
 En la práctica se verificó experimentalmente la actividad óptica del azúcar para concentraciones que se aumentaron de a $2 gr$ hasta llegar a $22 gr$ dichas concentraciones con una precisión de $5\times10^{-4} gr $, que se añadieron a $30 ml$ de agua destilada. [ver aquí los códigos utilizados para el tratamiento de datos](https://colab.research.google.com/drive/12mxdl7v-_ymeahFsoiagI8kpaIhq1p3I?usp=sharing)
 
